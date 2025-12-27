@@ -76,10 +76,6 @@ ct2-transformers-converter --model facebook/nllb-200-distilled-600M --quantizati
 
 Evaluation was done based on BLEU, chrF++, TER, and COMET metrics. The code is available at [Evaluation-Adaptive-MT.ipynb](Evaluation-Adaptive-MT.ipynb). The full evaluation scores are available at the [paper](https://arxiv.org/abs/2312.12740) under the Results section, and a detailed version is at [Evaluation-Scores-Adaptive-MT.csv](Evaluation-Scores-Adaptive-MT.csv)
 
-## Questions
-
-If you have questions, please feel free to [contact me](https://blog.machinetranslation.io/contact/).
-
 ## Citations
 
 1. **Fine-tuning Large Language Models for Adaptive Machine Translation**
